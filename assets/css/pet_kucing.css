@@ -1,0 +1,15 @@
+#pet-kucing {
+    position: fixed;
+    bottom: 10px;
+    left: 10px;
+    z-index: 99999;
+    width: 90px;
+    height: 90px;
+    pointer-events: none;
+}
+
+#pet-kucing img {
+    width: 100%;
+    height: auto;
+    image-rendering: pixelated;
+}
